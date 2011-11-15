@@ -1,0 +1,16 @@
+.olControlMagnifier {
+    right: 5px;
+    top: 5px;
+    width: 130px;
+    height: 80px;
+    border: 1px solid black;
+    background-color: #ddd;
+}
+
+.olControlMagnifier .olMagnifierPowerDisplay {
+    bottom: 5px;
+    right: 5px;
+    font-size: smaller;
+    background-color: #ddd;
+    padding: 2px;
+}

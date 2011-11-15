@@ -1,0 +1,6 @@
+.olControlMagnifier {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px 50px 10px 50px;
+    overflow: hidden;
+}
