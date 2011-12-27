@@ -7,7 +7,7 @@
     background-color: #ddd;
 }
 
-.olControlMagnifier .olMagnifierFactorDisplay {
+.olMagnifierFactorDisplay {
     bottom: 5px;
     right: 5px;
     font-size: smaller;
