@@ -3,4 +3,14 @@
     height: 100px;
     border-radius: 50px 50px 10px 50px;
     overflow: hidden;
+    box-shadow: 0 0 0 2px white, 0 0 0 3px #7f7f7f;
+    border: 1px solid #7f7f7f;
+}
+
+.olMagnifierFactorDisplay {
+    padding: 4px;
+    border-radius: 10px 0 0 0;
+    border: 1px solid #7f7f7f;
+    border-right: none;
+    border-bottom: none;
 }
